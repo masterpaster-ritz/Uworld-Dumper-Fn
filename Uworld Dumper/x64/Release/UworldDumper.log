@@ -1,0 +1,24 @@
+﻿  dllmain.cpp
+C:\Users\mab82\Downloads\Uworld Dumper\dllmain.cpp(4,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\mab82\Downloads\Uworld Dumper\dllmain.cpp(10,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'PBYTE'
+C:\Users\mab82\Downloads\Uworld Dumper\dllmain.cpp(10,9): warning C4313: 'printf': '%x' in format string conflicts with argument 1 of type 'PBYTE'
+C:\Users\mab82\Downloads\Uworld Dumper\dllmain.cpp(16,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type '__int64'
+C:\Users\mab82\Downloads\Uworld Dumper\dllmain.cpp(16,9): message : consider using '%llx' in the format string
+C:\Users\mab82\Downloads\Uworld Dumper\dllmain.cpp(16,9): message : consider using '%Ix' in the format string
+C:\Users\mab82\Downloads\Uworld Dumper\dllmain.cpp(16,9): message : consider using '%I64x' in the format string
+C:\Users\mab82\Downloads\Uworld Dumper\dllmain.cpp(24,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type '__int64'
+C:\Users\mab82\Downloads\Uworld Dumper\dllmain.cpp(24,9): message : consider using '%llx' in the format string
+C:\Users\mab82\Downloads\Uworld Dumper\dllmain.cpp(24,9): message : consider using '%Ix' in the format string
+C:\Users\mab82\Downloads\Uworld Dumper\dllmain.cpp(24,9): message : consider using '%I64x' in the format string
+C:\Users\mab82\Downloads\Uworld Dumper\dllmain.cpp(31,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type '__int64'
+C:\Users\mab82\Downloads\Uworld Dumper\dllmain.cpp(31,9): message : consider using '%llx' in the format string
+C:\Users\mab82\Downloads\Uworld Dumper\dllmain.cpp(31,9): message : consider using '%Ix' in the format string
+C:\Users\mab82\Downloads\Uworld Dumper\dllmain.cpp(31,9): message : consider using '%I64x' in the format string
+  Utilities.cpp
+C:\Users\mab82\Downloads\Uworld Dumper\Helper\Utilities.cpp(61,104): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\mab82\Downloads\Uworld Dumper\Helper\Utilities.cpp(29): warning C4715: 'Utilities::occurances::Find': not all control paths return a value
+  All 269 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  UworldDumper.vcxproj -> C:\Users\mab82\Downloads\Uworld Dumper\x64\Release\uworld.dll
